@@ -1,0 +1,9 @@
+nome_do_arquivo,descricao
+boolean_canal_1_2_normal,"Avaliação binária (normalidade/vazamento) com canal 1 e canal 2, SEM dados com ruído"
+boolean_canal_2_normal,"Avaliação binária (normalidade/vazamento) com canal 2, SEM dados com ruído"
+boolean_canal_1_2_ruido,"Avaliação binária (normalidade/vazamento) com canal 1 e canal 2, COM dados com ruído"
+boolean_canal_2_ruido,"Avaliação binária (normalidade/vazamento) com canal 2, COM dados com ruído"
+position_canal_1_2_normal,"Avaliação pela posição do sensor (2, 3, 4) com canal 1 e canal 2, SEM dados com ruído"
+position_canal_2_normal,"Avaliação pela posição do sensor (2, 3, 4) com canal 2, SEM dados com ruído"
+position_canal_1_2_ruido,"Avaliação pela posição do sensor (2, 3, 4) com canal 1 e canal 2, COM dados com ruído"
+position_canal_2_ruido,"Avaliação pela posição do sensor (2, 3, 4) com canal 2, COM dados com ruído"

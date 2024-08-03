@@ -162,4 +162,7 @@ cython_debug/
 #.idea/
 
 notas.txt
+.idea
 /data
+*.h5
+*.npy

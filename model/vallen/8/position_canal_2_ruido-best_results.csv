@@ -1,2 +1,0 @@
-best_accuracy,best_dense_activation,best_num_units,best_batch_size,best_epochs,best_dropout,best_optimizer
-0.9914433327157063,relu,512,8,60,0.2,Adam

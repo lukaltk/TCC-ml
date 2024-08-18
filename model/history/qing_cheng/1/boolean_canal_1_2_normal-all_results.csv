@@ -1,0 +1,2 @@
+Num Units,Batch Size,Epochs,Dense Activation,drop,optimizer,"Fold Results (accuracy, precision, recall, f1)"
+32,8,10,relu,0.2,Adam,"[(1.0, 1.0, 1.0, 1.0), (0.9985007496251874, 0.9985032442181571, 0.9985007496251874, 0.9984957375130993), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0)]"
